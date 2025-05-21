@@ -1,0 +1,22 @@
+{
+  "name": "roman-into-integer",
+  "version": "1.0.0",
+  "description": "Roman numerals to integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushh-11/roman-to-int-npm-package.git"
+  },
+  "keywords": [
+    "roman-to-int"
+  ],
+  "author": "ayushh-11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushh-11/roman-to-int-npm-package/issues"
+  },
+  "homepage": "https://github.com/ayushh-11/roman-to-int-npm-package#readme"
+}
